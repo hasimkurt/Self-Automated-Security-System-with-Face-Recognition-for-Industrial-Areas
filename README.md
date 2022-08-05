@@ -1,0 +1,1 @@
+# Self-Automated-Security-System-with-Face-Recognition-for-Industrial-Areas
